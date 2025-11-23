@@ -89,4 +89,4 @@ def predict_game(Year, MinP, MaxP, Time, Age, UsersRated, Rank, Owned, Domain):
     return rating
 
 # Пример
-predict_game(2010, 1, 1, 1, 1, 1, 1, 1, "Family Games, Strategy Games")
+predict_game(2010, 100, 1000, 4000, 1, 4890, 1, 1, "Family Games, Strategy Games")
